@@ -1,3 +1,4 @@
-![Jim's github stats](https://github-readme-stats.vercel.app/api?username=the-grue&show_icons=true&theme=vue-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=the-grue&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=the-grue&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-grue&layout=compact&langs_count=4)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=the-grue&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=the-grue&layout=compact&langs_count=4&theme=transparent)
